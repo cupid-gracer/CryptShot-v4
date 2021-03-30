@@ -1,0 +1,63 @@
+C:\Users\sick\source\repos\CryptShot\CryptShot\bin\Debug\CryptShot.exe.config
+C:\Users\sick\source\repos\CryptShot\CryptShot\bin\Debug\CryptShot.exe
+C:\Users\sick\source\repos\CryptShot\CryptShot\bin\Debug\CryptShot.pdb
+C:\Users\sick\source\repos\CryptShot\CryptShot\bin\Debug\Binance.Net.dll
+C:\Users\sick\source\repos\CryptShot\CryptShot\bin\Debug\CryptoExchange.Net.dll
+C:\Users\sick\source\repos\CryptShot\CryptShot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sick\source\repos\CryptShot\CryptShot\bin\Debug\SuperSocket.ClientEngine.dll
+C:\Users\sick\source\repos\CryptShot\CryptShot\bin\Debug\WebSocket4Net.dll
+C:\Users\sick\source\repos\CryptShot\CryptShot\bin\Debug\Binance.Net.xml
+C:\Users\sick\source\repos\CryptShot\CryptShot\bin\Debug\CryptoExchange.Net.xml
+C:\Users\sick\source\repos\CryptShot\CryptShot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sick\source\repos\CryptShot\CryptShot\obj\Debug\CryptShot.csprojAssemblyReference.cache
+C:\Users\sick\source\repos\CryptShot\CryptShot\obj\Debug\CryptShot.csproj.CoreCompileInputs.cache
+C:\Users\sick\source\repos\CryptShot\CryptShot\obj\Debug\CryptShot.csproj.CopyComplete
+C:\Users\sick\source\repos\CryptShot\CryptShot\obj\Debug\CryptShot.exe
+C:\Users\sick\source\repos\CryptShot\CryptShot\obj\Debug\CryptShot.pdb
+C:\Users\weilunlo\Downloads\CryptShot v1.0\CryptShot\bin\Debug\CryptShot.exe.config
+C:\Users\weilunlo\Downloads\CryptShot v1.0\CryptShot\bin\Debug\CryptShot.exe
+C:\Users\weilunlo\Downloads\CryptShot v1.0\CryptShot\bin\Debug\CryptShot.pdb
+C:\Users\weilunlo\Downloads\CryptShot v1.0\CryptShot\bin\Debug\Binance.Net.dll
+C:\Users\weilunlo\Downloads\CryptShot v1.0\CryptShot\bin\Debug\CryptoExchange.Net.dll
+C:\Users\weilunlo\Downloads\CryptShot v1.0\CryptShot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\weilunlo\Downloads\CryptShot v1.0\CryptShot\bin\Debug\SuperSocket.ClientEngine.dll
+C:\Users\weilunlo\Downloads\CryptShot v1.0\CryptShot\bin\Debug\WebSocket4Net.dll
+C:\Users\weilunlo\Downloads\CryptShot v1.0\CryptShot\bin\Debug\Binance.Net.xml
+C:\Users\weilunlo\Downloads\CryptShot v1.0\CryptShot\bin\Debug\CryptoExchange.Net.xml
+C:\Users\weilunlo\Downloads\CryptShot v1.0\CryptShot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\weilunlo\Downloads\CryptShot v1.0\CryptShot\obj\Debug\CryptShot.csproj.CoreCompileInputs.cache
+C:\Users\weilunlo\Downloads\CryptShot v1.0\CryptShot\obj\Debug\CryptShot.csproj.CopyComplete
+C:\Users\weilunlo\Downloads\CryptShot v1.0\CryptShot\obj\Debug\CryptShot.exe
+C:\Users\weilunlo\Downloads\CryptShot v1.0\CryptShot\obj\Debug\CryptShot.pdb
+\\Mac\Home\Downloads\CryptShot v1\CryptShot\bin\Debug\CryptShot.exe.config
+\\Mac\Home\Downloads\CryptShot v1\CryptShot\bin\Debug\CryptShot.exe
+\\Mac\Home\Downloads\CryptShot v1\CryptShot\bin\Debug\CryptShot.pdb
+\\Mac\Home\Downloads\CryptShot v1\CryptShot\bin\Debug\Binance.Net.dll
+\\Mac\Home\Downloads\CryptShot v1\CryptShot\bin\Debug\CryptoExchange.Net.dll
+\\Mac\Home\Downloads\CryptShot v1\CryptShot\bin\Debug\Newtonsoft.Json.dll
+\\Mac\Home\Downloads\CryptShot v1\CryptShot\bin\Debug\SuperSocket.ClientEngine.dll
+\\Mac\Home\Downloads\CryptShot v1\CryptShot\bin\Debug\WebSocket4Net.dll
+\\Mac\Home\Downloads\CryptShot v1\CryptShot\bin\Debug\Binance.Net.xml
+\\Mac\Home\Downloads\CryptShot v1\CryptShot\bin\Debug\CryptoExchange.Net.xml
+\\Mac\Home\Downloads\CryptShot v1\CryptShot\bin\Debug\Newtonsoft.Json.xml
+\\Mac\Home\Downloads\CryptShot v1\CryptShot\obj\Debug\CryptShot.csprojAssemblyReference.cache
+\\Mac\Home\Downloads\CryptShot v1\CryptShot\obj\Debug\CryptShot.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\CryptShot v1\CryptShot\obj\Debug\CryptShot.csproj.CopyComplete
+\\Mac\Home\Downloads\CryptShot v1\CryptShot\obj\Debug\CryptShot.exe
+\\Mac\Home\Downloads\CryptShot v1\CryptShot\obj\Debug\CryptShot.pdb
+E:\10_cryptocurrency\c#\CryptShot v4\CryptShot\bin\Debug\CryptShot.exe.config
+E:\10_cryptocurrency\c#\CryptShot v4\CryptShot\bin\Debug\CryptShot.exe
+E:\10_cryptocurrency\c#\CryptShot v4\CryptShot\bin\Debug\CryptShot.pdb
+E:\10_cryptocurrency\c#\CryptShot v4\CryptShot\bin\Debug\Binance.Net.dll
+E:\10_cryptocurrency\c#\CryptShot v4\CryptShot\bin\Debug\CryptoExchange.Net.dll
+E:\10_cryptocurrency\c#\CryptShot v4\CryptShot\bin\Debug\Newtonsoft.Json.dll
+E:\10_cryptocurrency\c#\CryptShot v4\CryptShot\bin\Debug\SuperSocket.ClientEngine.dll
+E:\10_cryptocurrency\c#\CryptShot v4\CryptShot\bin\Debug\WebSocket4Net.dll
+E:\10_cryptocurrency\c#\CryptShot v4\CryptShot\bin\Debug\Binance.Net.xml
+E:\10_cryptocurrency\c#\CryptShot v4\CryptShot\bin\Debug\CryptoExchange.Net.xml
+E:\10_cryptocurrency\c#\CryptShot v4\CryptShot\bin\Debug\Newtonsoft.Json.xml
+E:\10_cryptocurrency\c#\CryptShot v4\CryptShot\obj\Debug\CryptShot.csprojAssemblyReference.cache
+E:\10_cryptocurrency\c#\CryptShot v4\CryptShot\obj\Debug\CryptShot.csproj.CoreCompileInputs.cache
+E:\10_cryptocurrency\c#\CryptShot v4\CryptShot\obj\Debug\CryptShot.csproj.CopyComplete
+E:\10_cryptocurrency\c#\CryptShot v4\CryptShot\obj\Debug\CryptShot.exe
+E:\10_cryptocurrency\c#\CryptShot v4\CryptShot\obj\Debug\CryptShot.pdb

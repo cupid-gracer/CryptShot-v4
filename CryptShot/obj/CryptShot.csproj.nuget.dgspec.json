@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\10_cryptocurrency\\c#\\CryptShot v4\\CryptShot\\CryptShot.csproj": {}
+  },
+  "projects": {
+    "E:\\10_cryptocurrency\\c#\\CryptShot v4\\CryptShot\\CryptShot.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\10_cryptocurrency\\c#\\CryptShot v4\\CryptShot\\CryptShot.csproj",
+        "projectName": "CryptShot",
+        "projectPath": "E:\\10_cryptocurrency\\c#\\CryptShot v4\\CryptShot\\CryptShot.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "E:\\10_cryptocurrency\\c#\\CryptShot v4\\CryptShot\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "E:\\03_windows\\Package": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Costura.Fody": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "ILMerge": {
+              "target": "Package",
+              "version": "[3.0.29, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

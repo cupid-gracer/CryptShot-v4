@@ -1,0 +1,48 @@
+{
+  // PLEASE READ THE INSTRUCTION MANUAL PDF BEFORE PLAYING WITH SETTINGS.
+  
+  "APIKey": "bGXRDjks6ITMUNRsJllTabCpjHEg1WMQkXFih2KeOlId6J0GC08XGAwG9ghk2KQN",
+  "APISecret": "eCSa0DwoGN3YAAdrq7fpEVqgrycIcHfiEbGU9ACKaXVcFDf9jKpOaXVX7oXwNJhV",
+  
+  "LoginKey": "CRYPTSHOT-C2ZF0-W502U-SU5ZM-QPZYR",
+  
+  "Quantity": "0.0004",
+  // The BTC quantity which will be used.
+  "HasBNB": true,
+  // Make sure you have  BNB in your wallet to cover trading fees.
+  
+  "BuyType": "1",
+  // "1" = Buy Limit Order, this means your buy order will be set to buy above your selected % above the market price. For people using large amounts of BTC this is useful because often your amount can take up alot of the sell volume, giving you a binance error and your buy order not filling. (Note: It will normally only take a few % above market price, but it is a safe option.) Option "2" = Normal market execution buy order. This will instantly fill your quantity of BTC set at the current market price.
+  
+  "SellType": "1",
+  // "1" = OCO Order (Creates THE SELL ORDER FOR YOUR STOP LOSS & TAKE PROFIT) "2" = Only creates a TAKE PROFIT sell order.  "3" = Market Execution to sell on the time delay you set below 
+  
+  // Buy Limit Order Settings - Buy Type 1
+  "BuyLimitPriceRate": "1.40",
+  // This is only needed to change if you select Buy Type 1. This will select the % above  market price you would like the buy orders to fill up to.
+  
+  // Buy Type 2 doesn't have any settings, it just buys at market price.
+  
+  
+  // OCO Settings - Sell Type 1
+  "TakeProfitRate": "2.50",
+  "LimitPriceRate": "0.80",
+  "StopLossRate": "0.65",
+  
+  // Sell Limit Order - Sell Type 2
+  "LimitSellRate": "2.50",
+  // This option ONLY applies if you have selected Sell Type 2. This is where to enter your profit % for that option. If you haven't chosen option 2, you can ignore this option.
+  
+  // Delayed Market Sell - Sell Type 3
+  "MarketSellDelaySec": "15",
+  // This option ONLY applies if you have selected Sell Type 3. The amount of seconds you enter here will delay how long you want the bot to take before it executes the market sell execution. (This means it'll sell at whatever price it is at after the selected amount of seconds) 
+
+
+  // streaming flag Market Price of Coin
+  // 1 => streaming true,  0 => streaming false
+  "isStreaming": "1",
+
+  // if this function is set, user can control order
+  // 1 => streaming true,  0 => streaming false
+  "isRefreshOrder": "1",
+}
